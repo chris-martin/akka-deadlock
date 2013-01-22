@@ -10,7 +10,3 @@ libraryDependencies += "ch.qos.logback" % "logback-classic" % "1.0.0" % "runtime
 
 libraryDependencies += "com.typesafe.akka" %% "akka-slf4j" % "2.1.0"
 
-libraryDependencies += "org.scala-lang" % "jline" % "2.10.0"
-
-libraryDependencies += "org.scalatest" %% "scalatest" % "1.9.1" % "test"
-
